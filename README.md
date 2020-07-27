@@ -1,0 +1,1 @@
+# djangoBlogV1.0
